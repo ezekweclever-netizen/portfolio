@@ -285,7 +285,7 @@ a:hover {
     display: grid;
     grid-template-columns: 3fr 2fr;
     gap: 3rem;
-    align-items: center;
+    align-items: start;
 }
 
 .about-text p {
