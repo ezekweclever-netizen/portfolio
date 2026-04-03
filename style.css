@@ -488,7 +488,7 @@ footer {
     align-items: center;
     justify-content: center;
     box-shadow: 0px 4px 15px rgba(37, 211, 102, 0.4);
-    z-index: 100;
+    z-index: 9999;
     transition: transform 0.3s ease, background-color 0.3s ease, box-shadow 0.3s ease;
     animation: gentle-bounce 3s infinite;
 }
